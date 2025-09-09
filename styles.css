@@ -1,0 +1,20 @@
+
+div {
+    text-align: center;
+    background-color: rgb(245, 255, 245);
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+}
+
+#MoreThanAnything {
+    border: 2px solid black;
+    width: 220px;
+    position: fixed;
+    left: 0;
+    bottom: 0; 
+    margin: 40px;
+    padding: 10px;
+    height: 169px;
+}
+
