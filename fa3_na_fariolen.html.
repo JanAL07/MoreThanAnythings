@@ -7,7 +7,7 @@
     <style>
        
     </style>
-    <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/JanAL07/MoreThanAnythings/refs/heads/main/styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <div id="wrap">
@@ -87,4 +87,5 @@
     </div>
 </body>
 </html>
+
 
